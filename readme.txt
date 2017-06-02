@@ -1,2 +1,1 @@
-Working with GitBash!
-Trying to get a feel of Git!
+Python snippets for some Project Euler problems.
